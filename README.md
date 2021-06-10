@@ -8,9 +8,9 @@ The preview window is found on the left side of the application, and shows what 
 
 ## Grid Parameters
 the parameters can be found on the right side of the program, and will affect the grid shown in the preview. 
-#### Grid Size
+### Grid Size
 Grid Spacing affects how big each square of the grid is in pixels, while Grid Thickness affects how thick the grid lines actually are.
-#### Filter Type
+### Filter Type
 Filters determine where and when to place labels for the coordinates, each affecting them differently:
 
 Cross Grid draws lines both horizontally and vertically, placing either numbers or letters respectively, and both where the two lines intersect.
@@ -23,7 +23,7 @@ No Filter applies no filter, and will place a label on every grid space.
 
 Off is as you would expect, and the labels are removed entirely.
 
-#### Label Sliders
+### Label Sliders
 The Label Parameters affect the labels placed by the filters, such as their opacity or their size. Label Skip determines how many spaces sit between each line placed by the filters.
 
 ## Color Picker
